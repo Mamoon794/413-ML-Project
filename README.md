@@ -1,5 +1,5 @@
-# 413-ML-Project
-Lyrics Generation Long Short-Term Memory (LSTM) Project
+# Genre Based Song Lyrics Generation with LSTM
+A model that generates song lyrics based on an input genre and optional input prompt.
 
 - `baseModelOutput.txt` Contains the lyric outputs that the baseline model generated.
 - `finalModelOutput.txt` Contains the lyric outputs that the final, improved model generated.
